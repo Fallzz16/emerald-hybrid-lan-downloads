@@ -1,0 +1,2 @@
+517b86e2951811650138fd1e3ee630e2e7aed01e1c9829280aa38eecfaef09d9  dist/Emerald-Hybrid-LAN-v0.7.0-Android-armv7.apk
+2da1d94321e247915a58820793a4cf6121143b317fa414d982a5d7659fd9e313  dist/Emerald-Hybrid-LAN-v0.7.0-Windows-x86.zip
