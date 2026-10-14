@@ -1,0 +1,6 @@
+# Binários devem ficar em assets de release, após revisão de distribuição
+/dist/
+*.log
+.DS_Store
+.vscode/
+.idea/
