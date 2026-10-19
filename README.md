@@ -12,13 +12,13 @@
 | Windows | `Emerald-Hybrid-LAN-v0.7.0-Windows-x86.zip` | x86 / 32 bits | Build experimental gerado |
 | Android | `Emerald-Hybrid-LAN-v0.7.0-Android-armv7.apk` | ARMv7 / 32 bits | APK experimental gerado e assinado para debug |
 
-**Arquivos da distribuição:** devem ser disponibilizados na aba **Releases** após a revisão dos direitos necessários para redistribuição. No momento, este repositório contém a documentação e links para os relatórios de compilação; **não significa que os dois arquivos já estejam publicados aqui**.
+**Distribuição consultada em 19/10/2026:** os dois arquivos v0.7.0 estão anexados à [Release pública de tag `Pokemon`](https://github.com/Fallzz16/emerald-hybrid-lan-downloads/releases/tag/Pokemon). A Release é **experimental**, mesmo estando marcada como publicação normal no GitHub; a presença dos arquivos não comprova estabilidade nem direitos de redistribuição sobre recursos de terceiros. Ver [aviso legal](docs/AVISO_LEGAL.md).
 
 - [Compilação Windows no GitHub Actions](https://github.com/Fallzz16/pokeemerald-multiplatform/actions/runs/38481402987)
 - [Compilação Android no GitHub Actions](https://github.com/Fallzz16/pokeemerald-multiplatform/actions/runs/38481403085)
 - [Repositório principal (código-fonte)](https://github.com/Fallzz16/pokeemerald-multiplatform)
 
-As duas compilações citadas são do commit `73b8dd0047b41bd464393d50580618ecaf966728` da branch `feature/lan-hybrid-v070`. **Não incluem** as correções de rede posteriores ainda pendentes de validação.
+As duas compilações citadas são do commit `73b8dd0047b41bd464393d50580618ecaf966728` da branch `feature/lan-hybrid-v070`. **Não incluem** a arquitetura EHL8, o Laboratório M2.3 ou correções posteriores. O [preview Windows EHL8 de commit distinto](https://github.com/Fallzz16/pokeemerald-multiplatform/actions/runs/38994717968) pertence ao repositório principal e não substitui esta Release v0.7.0.
 
 ## O que há no Emerald Hybrid?
 
@@ -57,6 +57,7 @@ A LAN não oferece matchmaking público pela internet. **O mundo compartilhado d
 | [Perguntas frequentes](docs/FAQ.md) | Soluções para dúvidas comuns |
 | [Aviso legal](docs/AVISO_LEGAL.md) | Direitos de distribuição e afiliação |
 | [Notas desta versão](NOTAS_DA_VERSAO.md) | Origem dos builds e pendências |
+| [Estado das versões](STATUS_DAS_VERSOES.md) | Diferenças entre o download v0.7.0 e a versão EHL8 mais recente |
 
 ## Desenvolvimento
 

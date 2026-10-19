@@ -28,9 +28,9 @@ Não é recomendado durante o desenvolvimento experimental. Use cópias e saves 
 
 Não. O **mundo compartilhado não foi implementado**. A fase atual foca o sistema original de batalha/troca do Cable Club.
 
-### Por que os links da Release podem não mostrar os binários?
+### Os arquivos da v0.7.0 estão publicados? Isso significa que o jogo está estável?
 
-O repositório pode conter somente a documentação enquanto os direitos de distribuição e os anexos da pré-release são resolvidos. Compilar arquivos e publicá-los são etapas distintas.
+Os dois arquivos v0.7.0 estão na [Release de tag `Pokemon`](https://github.com/Fallzz16/emerald-hybrid-lan-downloads/releases/tag/Pokemon), conforme consulta em 19/10/2026. **Não:** publicação não significa estabilidade, aprovação dos testes reais de multiplayer ou autorização sobre ativos de terceiros. Ver [Estado das versões](../STATUS_DAS_VERSOES.md).
 
 ### Onde estão as atualizações de código?
 

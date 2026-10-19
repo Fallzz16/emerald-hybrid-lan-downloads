@@ -15,4 +15,4 @@ Na preparação anterior, foram feitas as seguintes verificações estáticas: e
 
 Os hashes em [SHA256SUMS.txt](../SHA256SUMS.txt) referem-se aos **pacotes de distribuição preparados**. Não devem ser confundidos com os hashes dos ZIPs originais do GitHub Actions.
 
-Este relatório descreve a verificação de empacotamento, não uma certificação de jogabilidade. Os binários ainda não foram publicados como Release neste repositório público.
+Este relatório descreve a verificação de empacotamento, não uma certificação de jogabilidade. **Atualização de publicação (19/10/2026):** os dois pacotes v0.7.0 constam na [Release pública de tag `Pokemon`](https://github.com/Fallzz16/emerald-hybrid-lan-downloads/releases/tag/Pokemon). Os hashes registrados aqui não foram recalculados a partir dos assets baixados nesta revisão documental; compare os SHA-256 localmente antes de usar. Consulte também [Estado das versões](../STATUS_DAS_VERSOES.md).
